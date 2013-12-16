@@ -1,0 +1,6 @@
+tata
+toto
+Test nombre de lignes sur fichier 2
+Voici la meme ligne sur le fichier 1 que sur le fichier 2
+Une ligne differente du fichier 1
+Enfin une derniere ligne que le fichier 1 n'a pas

@@ -1,0 +1,4 @@
+toto
+Test nombre de lignes sur fichier 1
+Voici la meme ligne sur le fichier 1 que sur le fichier 2
+Une ligne differente
